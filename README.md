@@ -15,7 +15,6 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 956bcab1ea3ed40c91bf845fe4f2dee727fe130a95f244a41a6ee7a25f14e23f | Gluon | 6 |
 | 0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b | COMET | 0 |
 | 7a51950e5f548549ec1aa63ffdc38279505b11e7e803d01bcf8347e0123c88b0 | rsBTC | 8 |
-| 0 | Test | 0 |
 
 ## Supported NFT list (Work In Progress)
 ### When applicable you will be able to mint an NFT with your hashrate
