@@ -34,5 +34,3 @@ To add a token to the list, simply create a PR that adds your token to the list.
 ### When applicable you will be able to mint an NFT with your hashrate
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
-
-## Supported Bonus Token List
