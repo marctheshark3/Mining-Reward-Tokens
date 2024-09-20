@@ -33,7 +33,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297 | rsADA | ? | False | True |
 | 886b7721bef42f60c6317d37d8752da8aca01898cae7dae61808c4a14225edc8 | GAU | ? | False | True |
 
-Make a point to refactor bonus only......
+Make a point to refactor bonus only........
 
 ## Supported NFT list (Work In Progress)
 ### When applicable you will be able to mint an NFT with your hashrate
