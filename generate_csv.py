@@ -50,7 +50,7 @@ def main():
             print("Row:", row)
         df = pd.DataFrame(rows, columns=headers)
         print(df.columns)
-        swap_df = df[df['Swap'] == True]
+        swap_df = df[df['Swap'] == 'True']
         swap_df.to_csv('supported-swap-tokens.csv', index=False)
         df.to_csv('supported-tokens.csv', index=False)
         return df
