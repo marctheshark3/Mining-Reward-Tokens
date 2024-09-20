@@ -1,1 +1,7 @@
 Token ID,Token Name,Token decimals,Bonus Only,Swap
+1,ERGO,0,False,True
+8b08cdd5449a9592a9e79711d7d79249d7a03c535d17efaee83e216e80a44c4b,RSN,3,False,True
+01dce8a5632d19799950ff90bca3b5d0ca3ebfa8aaafd06f0cc6dd1e97150e7f,CYPX,4,False,True
+7a51950e5f548549ec1aa63ffdc38279505b11e7e803d01bcf8347e0123c88b0,rsBTC,8,False,True
+e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297,rsADA,?,False,True
+886b7721bef42f60c6317d37d8752da8aca01898cae7dae61808c4a14225edc8,GAU,?,False,True
