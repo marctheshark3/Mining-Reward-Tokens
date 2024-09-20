@@ -31,7 +31,8 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git add supported-tokens.csv
-        git commit -m 'BOT Generate supported-tokens.csv'
+        git add supported-swap-tokens.csv
+        git commit -m 'BOT Generate csv'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
