@@ -6,8 +6,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 
 ## Supported token list
 | Token ID | Token Name | Token decimals | Bonus Only | Swap |
-| --- | --- | --- | --- |
-| 1 | ERGO | 0 | False |
+| --- | --- | --- | --- | --- |
+| 1 | ERGO | 0 | False | True |
 | 03faf2cb329f2e90d6d23b58d91bbb6c046aa143261cc21f52fbe2824bfcbf04 | SigUSD | 2 | True | False |
 | 8b08cdd5449a9592a9e79711d7d79249d7a03c535d17efaee83e216e80a44c4b | RSN | 3 | False | True |
 | 01dce8a5632d19799950ff90bca3b5d0ca3ebfa8aaafd06f0cc6dd1e97150e7f | CYPX | 4 | False | True |
