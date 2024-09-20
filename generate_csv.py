@@ -49,7 +49,7 @@ def main():
         for row in rows:
             print("Row:", row)
         df = pd.DataFrame(rows, columns=headers)
-        swap_df = df[df.Swap == True]
+        swap_df = df[df['Swap'] == True]
         swap_df.to_csv('supported-swap-tokens.csv', index=False)
         df.to_csv('supported-tokens.csv', index=False)
         return df
