@@ -33,7 +33,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297 | rsADA | ? | False | True |
 | 886b7721bef42f60c6317d37d8752da8aca01898cae7dae61808c4a14225edc8 | GAU | ? | False | True |
 | 48553eaceb9edbc0adaed666c7ce26ccd7c919eef53b211a8b2ffcfb25ff97c0 | ProxyToken | 5 | True | False |
-| c316e07ea2c2bb020c670bc2b926df5b7da318026d3a97920ed09e7fa4110f07 | btcSHARK | 9 | True | False |
+| c316e07ea2c2bb020c670bc2b926df5b7da318026d3a97920ed09e7fa4110f07 | btcSHARK | 0 | True | False |
 
 Make a point to refactor bonus only........
 
