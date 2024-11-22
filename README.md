@@ -27,13 +27,20 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 36aba4b4a97b65be491cf9f5ca57b5408b0da8d0194f30ec8330d1e8946161c1 | ErgDoge | 0 | True | False |
 | 52f4544ce8a420d484ece16f9b984d81c23e46971ef5e37c29382ac50f80d5bd | AuctionCoin | 0 | True | False |
 | d1d2ae2ac0456aa43550dd4fda45e4f866d523be9170d3a3e4cab43a83926334 | GreasyCex | 0 | True | False |
-| 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041| Fucks | 0 | True | False |
+| 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041 | Fucks | 0 | True | False |
 | bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e | Clown | 3 | True |  False |
 | af1a2e8005f6ffc9e291e121d1fb08795c5a079409b8ca56e20eb2f4f6f8553b | Dogo | 0 | True | False |
 | e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297 | rsADA | ? | False | True |
 | 886b7721bef42f60c6317d37d8752da8aca01898cae7dae61808c4a14225edc8 | GAU | ? | False | True |
 | 48553eaceb9edbc0adaed666c7ce26ccd7c919eef53b211a8b2ffcfb25ff97c0 | ProxyToken | 5 | True | False |
 | c316e07ea2c2bb020c670bc2b926df5b7da318026d3a97920ed09e7fa4110f07 | btcSHARK | 0 | True | False |
+| 7c788b124df40d5ab4d4c428dd7a1290b5b8579da4e8cbddeea060b1671312da | Pumperino | 3 | True | False |
+| 012c74dcd0920ce0c3f9f3945d509ea07b33872f3f144b816bcd7b664b22d5b3 | Troll | 0 | True | False |
+| 3ad0d09d24664f3b70d9b738a027782c337ab13e0ade901d0adc414a5ead64fd | Rubber | 2 | True | False |
+| 6fd53a3b6baa760a91af9f5ceb4200e9d3c23548b2df89333adede65a272c893 | heisenbERG | 5 | True | False |
+| 02f31739e2e4937bb9afb552943753d1e3e9cdd1a5e5661949cb0cef93f907ea | Terahertz | 4 | True | False |
+| e91cbc48016eb390f8f872aa2962772863e2e840708517d1ab85e57451f91bed | erGOLD | 0 | True | False |
+| 59ee24951ce668f0ed32bdb2e2e5731b6c36128748a3b23c28407c5f8ccbf0f6 | Walrus | 0 | True | False |
 
 Make a point to refactor bonus only........
 
