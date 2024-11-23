@@ -41,6 +41,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 02f31739e2e4937bb9afb552943753d1e3e9cdd1a5e5661949cb0cef93f907ea | Terahertz | 4 | True | False |
 | e91cbc48016eb390f8f872aa2962772863e2e840708517d1ab85e57451f91bed | erGOLD | 0 | True | False |
 | 59ee24951ce668f0ed32bdb2e2e5731b6c36128748a3b23c28407c5f8ccbf0f6 | Walrus | 0 | True | False |
+| 919be0b1063f2eb3f1aa0ad0b8753d6564f97658b5986908e2734cb22b2a35b0 | COCKMEMETUM | 6 | True | False |
 
 Make a point to refactor bonus only........
 
