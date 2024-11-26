@@ -46,6 +46,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 00564982e6b7a853a10b12663784902173d11f4754faedf117894ab387c9de28 | SHIPMYPANTS | 9 | True | False | 
 | 0f709a2f38ec1b2c5c94a6efd43824b82ce2900d083dd34948c6ce75fd11d5ea | SIGMANAUTSMININGPOOL | 9 | True | False |
 
+ 
 Make a point to refactor bonus only........
 
 ## Supported NFT list (Work In Progress)
