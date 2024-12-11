@@ -27,7 +27,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 36aba4b4a97b65be491cf9f5ca57b5408b0da8d0194f30ec8330d1e8946161c1 | ErgDoge | 0 | True | False |
 | 52f4544ce8a420d484ece16f9b984d81c23e46971ef5e37c29382ac50f80d5bd | AuctionCoin | 0 | True | False |
 | d1d2ae2ac0456aa43550dd4fda45e4f866d523be9170d3a3e4cab43a83926334 | GreasyCex | 0 | True | False |
-| 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041 | Fucks | 3 | True | False |
+| 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041 | Fucks | 5 | True | False |
 | bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e | Clown | 3 | True |  False |
 | af1a2e8005f6ffc9e291e121d1fb08795c5a079409b8ca56e20eb2f4f6f8553b | Doggo | 0 | True | False |
 | e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297 | rsADA | 6 | False | True |
