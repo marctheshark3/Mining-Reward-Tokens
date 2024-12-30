@@ -52,6 +52,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 3e0b62c7bc36bc7abf2bf76303722c31788aa579d771e427a0b2c8357da160ba | Ergonaut | 4 | True | False |
 | 80075ae9a6545eb1fc4473d3d7a7feab571fa1e444baf6816021af3a78d8bca3 | Bulls | 1 | True | False |
 | 1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489 | Paideia | 4 | True | False |
+| 34d449dc84a27d0f8fb2166d415a7223604f6426fb2d83ee099f2312182d575d | PHP | 8 | True | False |
 
 
  
