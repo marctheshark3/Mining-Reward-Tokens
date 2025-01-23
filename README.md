@@ -56,6 +56,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 089990451bb430f05a85f4ef3bcb6ebf852b3d6ee68d86d78658b9ccef20074f | QUACKS | 6 | True | False |
 | 6c35aa395c7c75b0f67f7804d6930f0e11ef93c3387dc1faa86498d54af7962c | MEW | 2 | True | False |
 | 4c8ac00a28b198219042af9c03937eecb422b34490d55537366dc9245e85d4e1 | Wooden_Nickles | 6 | True | False |
+| 9a2f05f8cc30fcd88aa39cf46eb1c6765f547c28a8240faa47f4bad4c6be46e5 | FlameShards | 5 | True | False |
 
 
  
