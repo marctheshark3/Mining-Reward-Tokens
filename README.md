@@ -60,6 +60,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | b780a9682ba1ea68eedfe3dd00169e414ea8968d96142ee95e2391d64df05c3d | rsDIS | 8 | True | False |
 | 0040ae650c4ed77bcd20391493abe84c1a9bb58ee88e87f15670c801e2fc5983 | bPaideia | 4 | True | False |
 | 9a4f12be3b87ec96db946be9e84e214d119a920034c1caadc5d92d8867cb3275 | testMRP| 2 | True | False |
+| 3b7a1a86b9cf5de5e06a2ca07f686a7b2a58a5f4d294d9917d9777ca9cfac372 | testMRPRIGHTS | 0 | True | False |
 
 
  
