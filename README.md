@@ -59,6 +59,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 9a2f05f8cc30fcd88aa39cf46eb1c6765f547c28a8240faa47f4bad4c6be46e5 | FlameShards | 5 | True | False |
 | b780a9682ba1ea68eedfe3dd00169e414ea8968d96142ee95e2391d64df05c3d | rsDIS | 8 | True | False |
 | 0040ae650c4ed77bcd20391493abe84c1a9bb58ee88e87f15670c801e2fc5983 | bPaideia | 4 | True | False |
+| 9a4f12be3b87ec96db946be9e84e214d119a920034c1caadc5d92d8867cb3275 | testMRP| 2 | True | False |
 
 
  
